@@ -1,2 +1,2 @@
-# Ecommerce-web
- demo web using html, css and js
+# Ecommerce-web-practice
+ 
